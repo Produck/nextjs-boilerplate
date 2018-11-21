@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import PageTemplate from "../src/components/common/PageTemplate";
+import PageTemplate from "components/common/PageTemplate";
 
 class About extends Component {
   render() {
