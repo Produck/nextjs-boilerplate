@@ -1,2 +1,3 @@
 import React from "react";
-export default () => <>Hello Nextjs</>;
+import PageTemplate from "../src/components/common/PageTemplate";
+export default () => <PageTemplate>Hello Nextjs</PageTemplate>;
