@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-boilerplate",
+  "version": "1.0.0",
+  "description": "A simple nextjs boilerplate with redux, typescript, jest",
+  "main": "index.js",
+  "repository": "https://github.com/produck/nextjs-boilerplate",
+  "author": "SUYOUNG KIM <suyoung154@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
