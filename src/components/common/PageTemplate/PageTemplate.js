@@ -1,10 +1,10 @@
 import React from "react";
 
-import Header from "components/common/Header";
+import HeaderContainer from "containers/common/HeaderContainer";
 
 export default ({ children }) => (
   <div>
-    <Header />
+    <HeaderContainer />
     {children}
     <div>Footer</div>
   </div>
